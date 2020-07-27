@@ -1,15 +1,15 @@
 # Paris
 
 ## Table of content
-**[The problem](#the-problem)**
-**[The data](#the-data)**
+**[The problem](#the-problem)**  
+**[The data](#the-data)**  
  - [Paris shape](#paris-shape)
  - [Venues nearby](#venues-nearby)
  - [Companies list](#companies-list)
  - [Building prices](#building-prices)
 
 ## The problem
-More than 3000 companies are created each month in Paris<sup>1</sup>.  
+More than 3000 companies are created each month in Paris<sup>[1](#1)</sup>.  
 And what are the 3 most important elements of sucess when you start a business ?
 Location, location, and location !  
 So, where is the best place for you to locate the premises of your brand new blockchain banking startup ?  
@@ -25,7 +25,7 @@ Since 1860, Paris is made of 20 arrondissements. Each one contains 4 neighborhoo
 The neighborhoods list and GeoJSON files will mostly be used to split data set by neighborhood and visualize results.  
 They are available here as open data : https://opendata.paris.fr/explore/dataset/quartier_paris/
 ![Paris neightborhoods](https://upload.wikimedia.org/wikipedia/commons/e/e8/Les_quartiers_de_paris.png)
-### Venues neerby
+### Venues nearby
 Foursquare API will help us understand what kind of venues you have in all Paris Neighborhoods.
 ### Companies list
 Companies premises data will be used to list companies with their size, location and business field.  
@@ -37,4 +37,4 @@ Multiple datasets are available but we'll prefer this dataset which contain lati
 
 
 ---
-<sup>1</sup>: source infogreffe https://www.infogreffe.com/greffe-tribunal/greffe-paris/statistiques-greffe-paris.html
+<a name="1"><sup>1</sup></a>: source infogreffe https://www.infogreffe.com/greffe-tribunal/greffe-paris/statistiques-greffe-paris.html
