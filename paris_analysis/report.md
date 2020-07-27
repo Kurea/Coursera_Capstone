@@ -1,12 +1,12 @@
 # Paris
 
 ## Table of content
-**[The problem](#the-problem)**  
-**[The data](#the-data)**  
- - [Paris shape](#paris-shape)
- - [Venues nearby](#venues-nearby)
- - [Companies list](#companies-list)
- - [Building prices](#building-prices)
+ - **[The problem](#the-problem)**  
+ - **[The data](#the-data)**  
+   - [Paris shape](#paris-shape)
+   - [Venues nearby](#venues-nearby)
+   - [Companies list](#companies-list)
+   - [Building prices](#building-prices)
 
 ## The problem
 More than 3000 companies are created each month in Paris<sup>[1](#1)</sup>.  
