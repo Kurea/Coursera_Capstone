@@ -1,14 +1,18 @@
-# Paris
+# Paris, the place to work
 
 ## Table of content
- - **[The problem](#the-problem)**  
- - **[The data](#the-data)**  
+ - **[Introduction to business problem](#introduction-to-business-problem)**  
+ - **[Data](#data)**  
    - [Paris shape](#paris-shape)
    - [Venues nearby](#venues-nearby)
    - [Companies list](#companies-list)
    - [Building prices](#building-prices)
+ - **[Methodology](#methodology)**  
+ - **[Results](#results)**  
+ - **[Discussion](#discussion)**  
+ - **[Conclusion](#conclusion)**
 
-## The problem
+## Introduction to business problem
 More than 3000 companies are created each month in Paris<sup>[1](#1)</sup>.  
 And what are the 3 most important elements of sucess when you start a business ?
 Location, location, and location !  
@@ -18,7 +22,7 @@ Transportation is (hopefully) not really an issue in Paris. You will always be n
 But everything else is important : venues nearby, other companies from the same business field... and of course price !  
 In this capstone project we will study Paris by neighborhood to help you choose where to start your researchs
 
-## The Data
+## Data
 *Note: data set descriptions are in french, sorry for that*
 ### Paris shape
 Since 1860, Paris is made of 20 arrondissements. Each one contains 4 neighborhoods. It makes 80 neighborhoods. Each one has a name and a police station :)  
@@ -35,6 +39,13 @@ Price of premises to rent is not available easily.
 However, buying transactions are available as open data and are a good proxy for renting prices, so we'll use this.  
 Multiple datasets are available but we'll prefer this dataset which contain latitude and logitude instead of address : https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres-geolocalisees/
 
+## Methodology
+
+## Results
+
+## Discussion
+
+## Conclusion
 
 ---
-<a name="1"><sup>1</sup></a>: source infogreffe https://www.infogreffe.com/greffe-tribunal/greffe-paris/statistiques-greffe-paris.html
+<a name="1"><sup>1</sup></a> source infogreffe https://www.infogreffe.com/greffe-tribunal/greffe-paris/statistiques-greffe-paris.html
