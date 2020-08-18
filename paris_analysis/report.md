@@ -64,16 +64,16 @@ Those companies are not relevant in our analysis, so they were removed from the 
 The buildings dataset contains all sold properties during last year. For our purpose, we will use only appartments data.  
 As seen during data analysis, some prices seems not realistics.  
 Graphs were used to define what are the best cleaning to apply to the dataset.  
-<img src="images/scatter_before.png" height="50%">
+<img src="images/scatter_before.png" height="50%" width="50%">  
 *price versus surface before cleaning*  
-![density before cleaning](images/density_before.png)
+<img src="images/density_before.png" height="50%" width="50%">  
 *price index density graph before cleaning*  
 We can see that there is lots of stange data points.  
 I decided to remove exterme prices (approx. top and bottom 10%) so the data set is cleaner.  
 Here is the result:  
-![scatter after cleaning](images/scatter_after.png)
+<img src="images/scatter_after.png" height="50%" width="50%">  
 *price versus surface after cleaning*  
-![density after cleaning](images/density_after.png)
+<img src="images/density_after.png" height="50%" width="50%">  
 *price index density graph after cleaning*  
 Much better, isn't it ?  
 
