@@ -10,8 +10,8 @@
  - **[Methodology](#methodology)**  
    - [Collecting data](#collecting-data)
    - [Data understanding](#data-understanding)
-   - [Data preparation] (#data-preparation)
-   - [Modeling and evaluation] (#modeling-and-evaluation)
+   - [Data preparation](#data-preparation)
+   - [Modeling and evaluation](#modeling-and-evaluation)
    - [Deployment](#deployment)
    - [Feedback](#feedback)
  - **[Results](#results)**  
@@ -64,7 +64,7 @@ Those companies are not relevant in our analysis, so they were removed from the 
 The buildings dataset contains all sold properties during last year. For our purpose, we will use only appartments data.  
 As seen during data analysis, some prices seems not realistics.  
 Graphs were used to define what are the best cleaning to apply to the dataset.  
-![scatter before cleaning](images/scatter_before.png)
+<img src="images/scatter_before.png" height="50%">
 *price versus surface before cleaning*  
 ![density before cleaning](images/density_before.png)
 *price index density graph before cleaning*  
